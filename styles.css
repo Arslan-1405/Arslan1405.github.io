@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "FulboArgenta";
+  src: url("C:\\Users\\Руслан\\Desktop\\NETHER\\webApp\\assets\\fonts\\FulboArgenta.ttf");
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  font-family: "FulboArgenta";
+  font-optical-sizing: auto; 
+  font-style: normal;
+}
+
+
+.mobile-button {
+	border: medium none;
+	background-image: none; 
+	/*!background: transparent; */
+	float: left;
+	background-color: rgb(28,28,28);
+}
+
+.mobile-button i {
+	font-size: 5px;
+}
+
+#counter {
+
+}
+
